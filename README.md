@@ -1,3 +1,8 @@
+Project created for <strong>Modern React with Redux</strong> Udemy course.<br/>
+Section 7: <strong>Handling User Input with Form and Events</strong>
+
+<hr/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
